@@ -1,0 +1,1 @@
+define(["jquery","uiComponent","js/view/mask"],function(f,d,e){return d.extend({defaults:{},initialize:function(){this._super();e.apply()}})});
