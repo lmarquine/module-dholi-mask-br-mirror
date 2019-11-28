@@ -1,10 +1,10 @@
 <?php
 /**
 * 
-* Temas para Magento 2
+* MÃ¡scaras PortuguÃªs Brasil para Magento 2
 * 
 * @category     Dholi
-* @package      Modulo Theme
+* @package      Modulo MaskBr
 * @copyright    Copyright (c) 2019 dholi (https://www.dholi.dev)
 * @version      1.0.0
 * @license      https://www.dholi.dev/license/

@@ -1,1 +1,0 @@
-define(["jquery","jquery/ui","jquery/validate","mage/translate"],function(b){return function(){b.validator.addMethod("validate-cpf-cnpj",function(d,a){return !a.classList.contains("mage-error")},b.mage.__("Group for Invalid VAT ID"))}});
