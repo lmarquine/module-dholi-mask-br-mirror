@@ -1,0 +1,33 @@
+{
+  "name": "dholi/module-dholi-mask-br",
+  "description": "Máscaras Português Brasil para Magento 2",
+  "homepage": "https://www.dholi.dev/projetos/mask",
+  "keywords": [
+    "magento",
+    "magento2",
+    "ecommerce"
+  ],
+  "authors": [
+    {
+      "name": "dholi.dev",
+      "email": "comunidade@dholi.dev"
+    }
+  ],
+  "require": {
+    "php": "~7.2",
+    "magento/framework": ">=102.0.2",
+    "dholi/module-dholi-core": "dev-master"
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "src/module-dholi-mask-br/registration.php"
+    ],
+    "psr-4": {
+      "Dholi\\MaskBr\\": "src/module-dholi-mask-br"
+    }
+  }
+}
