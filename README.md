@@ -1,5 +1,3 @@
-# Máscaras para Portuguê Brasil para Magento 2 - dholi.dev - Open Source
-
 Aplica máscaras de CPF/CNPJ, Telefones e CEP na área do frontend, nas páginas do carriho de compras, checkout e conta do cliente.
 
 ### Página do Projeto
