@@ -1,1 +1,1 @@
-define(["jquery","jquery/ui","jquery/validate","mage/translate"],function(a){return function(){a.validator.addMethod("validate-cpf-cnpj",function(c,b){return !b.classList.contains("mage-error")},a.mage.__("Group for Invalid VAT ID"))}});
+define(["jquery","jquery/ui","jquery/validate","mage/translate"],function(a){return function(){a.validator.addMethod("validate-cpf-cnpj",function(c,b){return !b.classList.contains("mage-error")},a.mage.__("Invalid Tax/VAT Number"))}});
